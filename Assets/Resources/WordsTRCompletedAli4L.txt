@@ -1,2 +1,5 @@
 köşe
 onun
+kaza
+oysa
+çoğu

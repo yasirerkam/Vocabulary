@@ -1,2 +1,5 @@
 bay
 yaz
+ben
+art
+söz
